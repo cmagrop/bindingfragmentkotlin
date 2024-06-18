@@ -6,4 +6,6 @@
     <string name="entrar">Entrar</string>
     <string name="home">Inicio</string>
     <string name="chat">Chat</string>
+    <string name="home_intro">Hola, estás en el home</string>
+    <string name="chat_intro">Hola, estás en el Chat</string>
 </resources>
